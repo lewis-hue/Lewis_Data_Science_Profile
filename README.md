@@ -8,6 +8,14 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 ## Projects
 
 #
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/databricks.png"> **[Business Intelligence (BI): Sales Forecasting Dashboard (Databricks)](https://github.com/lewis-hue/BusinessIntelligence.git)**
+
+This project demonstrates a comprehensive sales data analysis using **SQL** within **Databricks** on **Microsoft Azure**. The analysis covers product-level revenue, units sold, store performance, and geographic trends. A robust **ETL pipeline** was developed in Databricks to ingest and process transactional sales data across countries and stores. Key business insights were visualized via interactive dashboards to support strategic decision-making.
+
+**Skills & Tools:** SQL, Databricks, Microsoft Azure, Business Intelligence, Data Visualization, Data Analysis, Sales Analytics, ETL Pipelines, Dashboarding, Retail Analytics
+
+
+#
 
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/Customer%20segmentation.png"> **[Data Analysis: Customer Segmentation and Behavior Analysis](https://github.com/lewis-hue/data_analysis.git)**
 
@@ -15,15 +23,6 @@ This project focuses on customer behavior analytics using **R** in **R Studio**,
 
 
 **Skills & Tools:** R, R Studio, Data Analysis, Correlation Analysis, Data Visualization, Customer Segmentation, CLV Modeling, Business Intelligence, Exploratory Data Analysis (EDA), Statistical Testing
-
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/databricks.png"> **[Business Intelligence (BI): Sales Forecasting Dashboard (Databricks)](https://github.com/lewis-hue/BusinessIntelligence.git)**
-
-This project demonstrates a comprehensive sales data analysis using **SQL** within **Databricks** on **Microsoft Azure**. The analysis covers product-level revenue, units sold, store performance, and geographic trends. A robust **ETL pipeline** was developed in Databricks to ingest and process transactional sales data across countries and stores. Key business insights were visualized via interactive dashboards to support strategic decision-making.
-
-**Skills & Tools:** SQL, Databricks, Microsoft Azure, Business Intelligence, Data Visualization, Data Analysis, Sales Analytics, ETL Pipelines, Dashboarding, Retail Analytics
 
 <br />
 

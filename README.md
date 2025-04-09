@@ -39,11 +39,16 @@ This project focuses on analyzing customer behavior, churn risk, and revenue gen
 
 ## Certificates
 
-- [Introduction to Generative AI for Software Development (DeepLearning.AI)](https://www.deeplearning.ai)
-- [Machine Learning Models in Microsoft Azure (Microsoft)](https://www.microsoft.com)
-- [SQL and Relational Databases (IBM)](https://www.ibm.com)
-- [Data Analysis with R Programming](https://www.coursera.org)
-- [BigQuery for Data Analysts](https://www.coursera.org)
+- [Python for Data Science, AI & Development (IBM)](https://www.coursera.org/account/accomplishments/verify/D433KOIGEMR5)
+- [Machine Learning Models in Microsoft Azure (Microsoft)](https://www.coursera.org/account/accomplishments/verify/DM2KWMQBJ61M)
+- [SQL and Relational Databases (IBM)](https://courses.cognitiveclass.ai/certificates/730619af9d6f4605abcf94d609d810d6)
+- [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/verify/QBE3ZPA5Z7L0)
+- [Scala (IBM)](https://courses.cognitiveclass.ai/certificates/7fa09c3eb5c94eaeaac9051512bc0870)
+- [BigQuery for Data Analysts](https://www.coursera.org/account/accomplishments/verify/FXW8MAV2EWWJ)
+- [Exploratory Data Analysis forMachine Learning (IBM)](https://www.coursera.org/account/accomplishments/verify/0M1V5IH0DPIM)
+- [Data Analysis and Visualization with PowerBI](https://www.coursera.org/account/accomplishments/verify/1WJM24A7HZJ9)
+- [Developing AI Applications withPython and Flask (IBM)](https://www.coursera.org/account/accomplishments/verify/E8KKQL3YJJIZ)
+- [Modernizing DataLakes and Data Warehouses with Google Cloud](https://www.coursera.org/account/accomplishments/verify/IIR4VSGR470J)
 
 <!--
 **lewismuguna/lewismuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

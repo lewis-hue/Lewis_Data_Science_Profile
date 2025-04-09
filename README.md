@@ -25,7 +25,7 @@ This project focuses on customer behavior analytics using **R** in **R Studio**,
 **Skills & Tools:** R, R Studio, Data Analysis, Correlation Analysis, Data Visualization, Customer Segmentation, CLV Modeling, Business Intelligence, Exploratory Data Analysis (EDA), Statistical Testing
 
 #
-<img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/databricks.png"> **[B2B SaaS Analysis Using Customer Data (BigQuery & Looker Studio)](https://github.com/lewis-hue/BigQuery.git)**
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/Lewis_Data_Science_Profile/blob/main/BigQuery.jpg"> **[B2B SaaS Analysis Using Customer Data (BigQuery & Looker Studio)](https://github.com/lewis-hue/BigQuery.git)**
 
 This project focuses on analyzing customer behavior, churn risk, and revenue generation for a B2B SaaS company using a variety of advanced data science techniques and tools. The objective is to uncover insights that can optimize customer acquisition, retention strategies, and revenue generation by leveraging the power of SQL, BigQuery, Looker Studio, and predictive modeling.
 

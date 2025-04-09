@@ -16,13 +16,12 @@ This project demonstrates a comprehensive sales data analysis using **SQL** with
 
 
 #
-
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/Customer%20segmentation.png"> **[Data Analysis: Customer Segmentation and Behavior Analysis](https://github.com/lewis-hue/data_analysis.git)**
 
 This project focuses on customer behavior analytics using **R** in **R Studio**, exploring the relationship between `TotalPurchase`, `Frequency`, and `Customer Lifetime Value (CLV)` through exploratory data analysis and correlation testing. Visualizations include bar graphs and scatterplots, supported by statistical metrics (correlation coefficients and p-values) to uncover actionable insights.
 
-
 **Skills & Tools:** R, R Studio, Data Analysis, Correlation Analysis, Data Visualization, Customer Segmentation, CLV Modeling, Business Intelligence, Exploratory Data Analysis (EDA), Statistical Testing
+
 
 #
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/Lewis_Data_Science_Profile/blob/main/BigQuery.jpg"> **[B2B SaaS Analysis Using Customer Data (BigQuery & Looker Studio)](https://github.com/lewis-hue/BigQuery.git)**

@@ -19,7 +19,7 @@ This project demonstrates a comprehensive sales data analysis using **SQL** with
 
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/Customer%20segmentation.png"> **[Data Analysis: Customer Segmentation and Behavior Analysis](https://github.com/lewis-hue/data_analysis.git)**
 
-This project focuses on analyzing customer behavior, churn risk, and revenue generation for a B2B SaaS company using a variety of advanced data science techniques and tools. The objective is to uncover insights that can optimize customer acquisition, retention strategies, and revenue generation by leveraging the power of SQL, BigQuery, Looker Studio, and predictive modeling.
+This project focuses on customer behavior analytics using **R** in **R Studio**, exploring the relationship between `TotalPurchase`, `Frequency`, and `Customer Lifetime Value (CLV)` through exploratory data analysis and correlation testing. Visualizations include bar graphs and scatterplots, supported by statistical metrics (correlation coefficients and p-values) to uncover actionable insights.
 
 
 **Skills & Tools:** R, R Studio, Data Analysis, Correlation Analysis, Data Visualization, Customer Segmentation, CLV Modeling, Business Intelligence, Exploratory Data Analysis (EDA), Statistical Testing
@@ -27,10 +27,9 @@ This project focuses on analyzing customer behavior, churn risk, and revenue gen
 #
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/databricks.png"> **[B2B SaaS Analysis Using Customer Data (BigQuery & Looker Studio)](https://github.com/lewis-hue/BigQuery.git)**
 
-This project demonstrates a comprehensive sales data analysis using **SQL** within **Databricks** on **Microsoft Azure**. The analysis covers product-level revenue, units sold, store performance, and geographic trends. A robust **ETL pipeline** was developed in Databricks to ingest and process transactional sales data across countries and stores. Key business insights were visualized via interactive dashboards to support strategic decision-making.
+This project focuses on analyzing customer behavior, churn risk, and revenue generation for a B2B SaaS company using a variety of advanced data science techniques and tools. The objective is to uncover insights that can optimize customer acquisition, retention strategies, and revenue generation by leveraging the power of SQL, BigQuery, Looker Studio, and predictive modeling.
 
-**Skills & Tools:** SQL, Databricks, Microsoft Azure, Business Intelligence, Data Visualization, Data Analysis, Sales Analytics, ETL Pipelines, Dashboarding, Retail Analytics
-
+**Skills & Tools:** SQL, BigQuery, Looker Studio, Business Intelligence, Data Visualization, Data Analysis, Dashboarding
 <br />
 
 ## Core Competencies

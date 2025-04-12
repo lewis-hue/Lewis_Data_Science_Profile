@@ -8,6 +8,14 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 ## Projects
 
 #
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/Lewis_Data_Science_Profile/blob/main/Oracle.png"> **[Sales Forecasting and Marketing Optimization Using Python, Oracle, Machine Learning, and Power BI](https://github.com/lewis-hue/oracle-powerbi.git)**
+
+This project demonstrates data science techniques and business intelligence strategies to optimize sales forecasting and marketing efforts using cutting-edge tools and technologies. By leveraging Python for Data Science, Machine Learning, and Oracle for data storage and processing, the project builds an end-to-end sales prediction pipeline. The project incorporates data preprocessing, feature engineering, and model training to deliver highly accurate sales forecasts and insights into marketing effectiveness.
+
+**Skills & Tools:** Oracle Database, Python for Data Science, Pandas, NumPy, Scikit-learn, Machine Learning, Gradient Boosting, Predictive Modeling, Power BI, Data Visualization, ETL Pipelines, Advanced Analytics, Business Intelligence, Marketing ROI Optimization, Sales Forecasting, Hyperparameter Tuning, Regression Modeling.
+##
+
+#
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/databricks.png"> **[Business Intelligence (BI): Sales Forecasting Dashboard (Databricks)](https://github.com/lewis-hue/BusinessIntelligence.git)**
 
 This project demonstrates a comprehensive sales data analysis using **SQL** within **Databricks** on **Microsoft Azure**. The analysis covers product-level revenue, units sold, store performance, and geographic trends. A robust **ETL pipeline** was developed in Databricks to ingest and process transactional sales data across countries and stores. Key business insights were visualized via interactive dashboards to support strategic decision-making.
@@ -20,6 +28,7 @@ This project demonstrates a comprehensive sales data analysis using **SQL** with
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/lewis_page/blob/main/Customer%20segmentation.png"> **[Data Analysis: Customer Segmentation and Behavior Analysis](https://github.com/lewis-hue/data_analysis.git)**
 
 This project focuses on customer behavior analytics using **R** in **R Studio**, exploring the relationship between `TotalPurchase`, `Frequency`, and `Customer Lifetime Value (CLV)` through exploratory data analysis and correlation testing. Visualizations include bar graphs and scatterplots, supported by statistical metrics (correlation coefficients and p-values) to uncover actionable insights.
+
 
 **Skills & Tools:** R, R Studio, Data Analysis, Correlation Analysis, Data Visualization, Customer Segmentation, CLV Modeling, Business Intelligence, Exploratory Data Analysis (EDA), Statistical Testing
 

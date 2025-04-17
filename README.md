@@ -8,6 +8,14 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 ## Projects
 
 #
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/Lewis_Data_Science_Profile/blob/main/Snowflake.jpg"> **[Fraud Detection and Financial Transaction Analysis Using Snowflake, Machine Learning, and Tableau](https://github.com/lewis-hue/Fraud-Detection-Financial-Transaction-Analysis-Snowflake-.git)**
+
+This project demonstrates advanced data analytics, fraud risk modeling, and business intelligence techniques to uncover actionable insights from financial transaction data. Leveraging the power of Snowflake's cloud data warehouse, complex SQL transformations, and dynamic visualizations in Tableau, the project delivers an end-to-end solution for identifying fraudulent activity, optimizing revenue flows, and improving customer targeting strategies. Key analyses included customer segmentation based on spending patterns, fraud prediction using risk scores, and transaction type breakdowns. By staging raw data in Snowflake and performing analytical queries with optimized SQL, the project enabled scalable, high-performance data exploration. Insights were surfaced through interactive Tableau dashboards that empowered business users to monitor trends and anomalies in real time. Advanced methodologies such as risk-tiering, transactional segmentation, and KPI-driven visualization were implemented to support decision-making across fraud prevention, marketing, and financial operations.
+
+**Skills & Tools:** Snowflake, Advanced SQL, Data Modeling, Data Warehousing, ETL Pipelines, Tableau Dashboards, Data Visualization, Business Intelligence, Customer Segmentation, Fraud Analytics, KPI Monitoring, Data-Driven Decision Making, Cloud Analytics Infrastructure, Performance Optimization, Transaction Analysis, Risk Scoring Frameworks
+
+
+#
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/Lewis_Data_Science_Profile/blob/main/Oracle.png"> **[Sales Forecasting and Marketing Optimization Using Python, Oracle, Machine Learning, and Power BI](https://github.com/lewis-hue/oracle-powerbi.git)**
 
 This project showcases **data science** techniques and **business intelligence** strategies to optimize sales forecasting and marketing efforts using state-of-the-art tools and technologies. By leveraging **Python** for **Data Science**, **Machine Learning**, and **Oracle** for data storage and processing, the project develops an **end-to-end sales prediction pipeline**. The pipeline includes crucial steps such as **data preprocessing**, **feature engineering**, and **model training**, enabling market effectiveness.

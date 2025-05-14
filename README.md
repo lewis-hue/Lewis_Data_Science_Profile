@@ -8,12 +8,18 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 ## Projects
 
 #
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/Google_Ads_Analytics/blob/main/download.png"> **[Google Ads Campaign Optimization Using Amplitude Analytics](https://github.com/lewis-hue/Google_Ads_Analytics.git)**
+
+This project utilizes Amplitude, a powerful product analytics tool, to optimize Google Ads campaigns through detailed analysis of user behavior and ad performance across platforms like Google, YouTube, and Google Display Network. By tracking key metrics such as clicks, conversions, cost, impressions, and interactions, we identify areas for improvement in targeting and engagement. The insights derived from Amplitude's marketing analytics enable better ad spend allocation, refined targeting strategies, and enhanced user journeys, ultimately improving conversion rates and maximizing customer lifetime value.
+
+**Skills & Tools:** Product analytics, web analytics, Marketing analytics, Amplitude, and data visualisation.
+
+#
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/Lewis_Data_Science_Profile/blob/main/Snowflake.jpg"> **[Fraud Detection and Financial Transaction Analysis Using Snowflake, Machine Learning, and Tableau](https://github.com/lewis-hue/Fraud-Detection-Financial-Transaction-Analysis-Snowflake-.git)**
 
 This project showcases advanced SQL, Snowflake, and Tableau skills to analyze financial transactions for fraud detection and customer insights. Using Snowflake for data warehousing and SQL for data transformation, I built a robust ETL pipeline to process and stage transaction data. Key analyses include customer segmentation, fraud risk scoring, and transaction breakdowns. I developed interactive Tableau dashboards to visualize customer spending behavior and fraud risks. This project optimized fraud prevention, enhanced customer targeting, and improved financial operations through actionable insights, leveraging advanced analytics, data visualization, and cloud data infrastructure.
 
 **Skills & Tools:** Snowflake, Advanced SQL, Data Modeling, Data Warehousing, ETL Pipelines, Tableau Dashboards, Data Visualization, Business Intelligence, Customer Segmentation, Fraud Analytics, KPI Monitoring, Data-Driven Decision Making, Cloud Analytics Infrastructure, Performance Optimization, Transaction Analysis, Risk Scoring Frameworks
-
 
 #
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/Lewis_Data_Science_Profile/blob/main/Oracle.png"> **[Sales Forecasting and Marketing Optimization Using Python, Oracle, Machine Learning, and Power BI](https://github.com/lewis-hue/oracle-powerbi.git)**

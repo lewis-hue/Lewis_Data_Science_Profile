@@ -2,7 +2,7 @@
 
 This Portfolio is a compilation of all the Data Science, Data Engineering, and Data Analysis projects I have worked on for academic, professional, and self-learning purposes. It showcases my achievements, skills, and certifications, and is updated regularly with new projects and experiences.
 
-- **Email**: [lewis.muguna417@gmail.com](mailto:lewis.muguna417@gmail.com)
+- **Email**: [lewiemuguna417@gmail.com](mailto:lewis.muguna417@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/lewis-muguna-070080166](https://www.linkedin.com/in/lewis-muguna-070080166)
 
 ## Projects

@@ -82,6 +82,9 @@ This project focuses on analyzing customer behavior, churn risk, and revenue gen
 ## Certificates
 
 
+- [IBM Data Engineering Specialization(IBM)](https://www.coursera.org/account/accomplishments/specialization/L2LPK72TSHIV)
+- [AWS Cloud Solutions Architect(AWS)](https://www.coursera.org/account/accomplishments/professional-cert/certificate/YOI9L6540YBA)
+- [Google Business Intelligence Specialization(Google)](https://www.coursera.org/account/accomplishments/specialization/2BO13KGKPD5V)
 - [Python for Data Science, AI & Development (IBM)](https://www.coursera.org/account/accomplishments/verify/D433KOIGEMR5)
 - [Machine Learning Models in Microsoft Azure (Microsoft)](https://www.coursera.org/account/accomplishments/verify/DM2KWMQBJ61M)
 - [SQL and Relational Databases (IBM)](https://courses.cognitiveclass.ai/certificates/730619af9d6f4605abcf94d609d810d6)

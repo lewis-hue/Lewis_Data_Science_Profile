@@ -8,6 +8,12 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 ## Projects
 
 #
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/LLMs-and-RAG/blob/main/download%20(3).jpg"> **[Qubiten Compliance Chatbot: An LLM-Powered RAG System](https://github.com/lewis-hue/LLMs-and-RAG.git)**
+
+Qubiten Compliance Chatbot is a Retrieval-Augmented Generation (RAG) system leveraging Google Vertex AI’s text-bison\@001 model and embeddings. Built with a Python Flask backend and HTML/CSS/JavaScript frontend, it ingests compliance documents, performs FAISS-based similarity search, and assembles prompts for the LLM. 
+**Skills and tools:** RAG, LLM fine-tuning, Vertex AI, Flask, Python, FAISS/Pinecone, RESTful APIs, and UI development, ensuring accurate, scalable regulatory guidance using a fine-tuned knowledge base and chat interface.
+
+#
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/End-to-End-Data-Architecture-and-Analytics-Pipeline-on-AWS/blob/main/images.jpg"> **[End-to-End Data Architecture and Analytics Pipeline on AWS
 ](https://github.com/lewis-hue/End-to-End-Data-Architecture-and-Analytics-Pipeline-on-AWS.git)**
 

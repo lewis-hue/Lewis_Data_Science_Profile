@@ -1,4 +1,4 @@
-# Data Science Portfolio - Lewis Muguna
+# Projects - Lewis Muguna
 
 This Portfolio is a compilation of all the Data Science, Data Engineering, and Data Analysis projects I have worked on for academic, professional, and self-learning purposes. It showcases my achievements, skills, and certifications, and is updated regularly with new projects and experiences.
 
@@ -6,6 +6,21 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 - **LinkedIn**: [www.linkedin.com/in/lewis-muguna-070080166](https://www.linkedin.com/in/lewis-muguna-070080166)
 
 ## Projects
+
+#
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/AI-Powered-Web-Scraper-Data-Extraction-Platform/blob/main/download%20(4).jpg"> **[AI-Powered Web Scraper and Data Extraction Platform](https://github.com/lewis-hue/AI-Powered-Web-Scraper-Data-Extraction-Platform.git)**
+
+This project is a scalable, cloud-based application designed for web scraping and data export management. It features RESTful APIs for initiating and monitoring scraping jobs, as well as exporting and downloading data. Built with a Flask backend, MongoDB for scalable data storage, and Docker containers for seamless deployment, the application is optimized for performance and horizontal scaling. Future enhancements include the potential integration of Celery for task queue management. 
+**Skills and tools:** Flask, MongoDB, RESTful APIs, Docker, Cloud Hosting (AWS, GCP, Heroku), CI/CD, Scalable Architecture, Asynchronous Processing, Performance Optimization, Task Queue Management (Celery).
+
+#
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/End-to-End-Data-Architecture-and-Analytics-Pipeline-on-AWS/blob/main/images.jpg"> **[End-to-End Data Architecture and Analytics Pipeline on AWS
+](https://github.com/lewis-hue/End-to-End-Data-Architecture-and-Analytics-Pipeline-on-AWS.git)**
+
+This project simulates the design of an end-to-end data engineering and analytics pipeline using AWS. It demonstrates the use of AWS services like Amazon EKS for container orchestration, Amazon S3 for data storage, AWS Glue for ETL processing, Amazon Athena for querying, Amazon SageMaker for machine learning, and Amazon QuickSight for data visualization. The pipeline simulates a scalable, secure architecture for ingesting, transforming, analyzing, and visualizing customer transactional data, providing business insights and predictive models in a telecommunications context.
+
+**Skills & Tools:** Amazon Elastic Kubernetes Service (EKS), Amazon S3, AWS Glue, Amazon Athena, Amazon SageMaker, Amazon QuickSight, Apache Doris, data pipeline design and implementation, data ingestion, transformation, and feature engineering, scalable architecture creation, feature engineering, model development and training, predictive modeling for customer behavior analysis, secure and scalable cloud infrastructure design, end-to-end data pipeline integration and optimization, querying, reporting, business intelligence (BI) insights generation, and data-driven decision-making.
+
 
 #
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/LLMs-and-RAG/blob/main/download%20(3).jpg"> **[Qubiten Compliance Chatbot: An LLM-Powered RAG System](https://github.com/lewis-hue/LLMs-and-RAG.git)**

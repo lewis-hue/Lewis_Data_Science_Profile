@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 ## Projects
 
 #
-<img align="left" width="250" height="150" src="https://github.com/lewis-hue/AI-Powered-Web-Scraper-Data-Extraction-Platform/blob/main/download%20(4).jpg"> **[Production-Grade Serverless RAG Application: A Full-Stack LLM System for Secure Document Analysis and Constitutional Compliance](https://github.com/lewis-hue/Qubiten-AI-Assistant.git)**
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/Lewis_Data_Science_Profile/blob/main/download%20(5).jpg"> **[Production-Grade Serverless RAG Application: A Full-Stack LLM System for Secure Document Analysis and Constitutional Compliance](https://github.com/lewis-hue/Qubiten-AI-Assistant.git)**
 
 This production-grade, serverless web application is a proactive compliance advisor that translates complex constitutional law into actionable guidance for businesses, schools, and hospitals. At its core, the application uses a **Retrieval-Augmented Generation (RAG)** system powered by a **Groq LLaMA 3.1 LLM** to deliver citation-backed answers, preventing AI hallucinations. The user experience is enhanced with **real-time streaming responses** and hands-free query input via **Google Cloud Speech-to-Text** for voice transcription. 
 

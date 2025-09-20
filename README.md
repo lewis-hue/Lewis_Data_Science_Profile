@@ -8,6 +8,13 @@ This Portfolio is a compilation of all the Data Science, Data Engineering, and D
 ## Projects
 
 #
+<img align="left" width="250" height="150" src="https://github.com/lewis-hue/AI-Powered-Web-Scraper-Data-Extraction-Platform/blob/main/download%20(4).jpg"> **[Production-Grade Serverless RAG Application: A Full-Stack LLM System for Secure Document Analysis and Constitutional Compliance](https://github.com/lewis-hue/Qubiten-AI-Assistant.git)**
+
+This production-grade, serverless web application is a proactive compliance advisor that translates complex constitutional law into actionable guidance for businesses, schools, and hospitals. At its core, the application uses a **Retrieval-Augmented Generation (RAG)** system powered by a **Groq LLaMA 3.1 LLM** to deliver citation-backed answers, preventing AI hallucinations. The user experience is enhanced with **real-time streaming responses** and hands-free query input via **Google Cloud Speech-to-Text** for voice transcription. 
+
+Architecturally, it ensures user privacy and scalability through a **stateless backend** with **secure client-side document processing** in the browser using **IndexedDB**. The entire system is containerized with **Docker** and deployed serverlessly on **Google Cloud Run** with an **automated CI/CD pipeline**, demonstrating expertise across a modern tech stack including **Python, Flask, JavaScript, LangChain, Vector Databases (FAISS), and the full suite of Google Cloud and Docker for DevOps**. 
+
+#
 <img align="left" width="250" height="150" src="https://github.com/lewis-hue/AI-Powered-Web-Scraper-Data-Extraction-Platform/blob/main/download%20(4).jpg"> **[AI-Powered Web Scraper and Data Extraction Platform](https://github.com/lewis-hue/AI-Powered-Web-Scraper-Data-Extraction-Platform.git)**
 
 This project is a scalable, cloud-based application designed for web scraping and data export management. It features RESTful APIs for initiating and monitoring scraping jobs, as well as exporting and downloading data. Built with a Flask backend, MongoDB for scalable data storage, and Docker containers for seamless deployment, the application is optimized for performance and horizontal scaling. Future enhancements include the potential integration of Celery for task queue management. 
